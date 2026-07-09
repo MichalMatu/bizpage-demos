@@ -30,7 +30,8 @@ jobs:
       - name: Prepare artifact
         run: |
           mkdir _site
-          cp -R .nojekyll robots.txt index.html README.md studio-fryzur-filipiak _site/
+          cp -R .nojekyll robots.txt index.html _site/
+          find . -mindepth 1 -maxdepth 1 -type d ! -name .git ! -name .github ! -name _site -exec cp -R {} _site/ \;
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
