@@ -1,14 +1,6 @@
-# BizPage demos
+# BizPage demo exports
 
-Publiczne repo z lekkimi statycznymi eksportami demo.
+Publiczne repo techniczne z lekkimi statycznymi eksportami demo.
 
-Każde demo znajduje się w osobnym podfolderze:
-
-- `studio-fryzur-filipiak/`
-
-Link publiczny:
-
-```text
-https://michalmatu.github.io/bizpage-demos/studio-fryzur-filipiak/
-```
-
+Nie utrzymuj tu publicznej listy klientów. Linki do konkretnych podfolderów
+wysyłaj indywidualnie.
