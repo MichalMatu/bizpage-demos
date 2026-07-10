@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="BizPage">
+  <rect width="128" height="128" rx="24" fill="#0f766e" />
+  <path
+    fill="#fff"
+    d="M34 20h43l17 17v71H34V20Zm43 7v17h17L77 27ZM48 58v9h32v-9H48Zm0 18v9h24v-9H48Z"
+  />
+  <rect x="48" y="94" width="18" height="7" rx="3.5" fill="#ef9a73" />
+</svg>
